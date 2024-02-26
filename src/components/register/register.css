@@ -1,0 +1,6 @@
+#RegisterLink {
+    &:hover {
+      text-decoration: underline; /* Use 'underline' for the hover effect */
+      color: #61dafb; /* Optionally change the text color on hover */
+    }
+  }
